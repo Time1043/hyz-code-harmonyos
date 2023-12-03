@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzApplicationDemo1_com.edu.time1043.hyzapplicationdemo1_80086000308483083.cer",
+          "storePassword": "0000001B8EDA4B6C10ABF363694EF1F0ED31AE57591D34D6F42763A2DC453E02CFBBCDB123C462359B4DF4",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B4C723078FECA849B3EDDA26C7A617AC771FC6A566D57CF1818B1FAEECFBFA2BCFB6B075907E880",
+          "profile": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzApplicationDemo1_com.edu.time1043.hyzapplicationdemo1_80086000308483083.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzApplicationDemo1_com.edu.time1043.hyzapplicationdemo1_80086000308483083.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
