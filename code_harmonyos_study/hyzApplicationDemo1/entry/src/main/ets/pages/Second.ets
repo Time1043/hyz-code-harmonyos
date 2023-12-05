@@ -27,10 +27,10 @@ struct Second {
         .height('5%')
         .onClick(() => {
           console.info('succeeded in clicking the back button.')
-          try{
+          try {
             router.back()
             console.info('succeeded in returning to first page.')
-          }catch (err){
+          } catch (err) {
             console.error('failed to return to the first page.Code is ${err.code}, message is ${err.message}')
           }
         })
