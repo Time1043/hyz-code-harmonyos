@@ -24,9 +24,7 @@ struct Demo2 {
   build() {
     Column({ space: 8 }) {
       Row() {
-        Text("商品列表")
-          .fontSize(30)
-          .fontWeight(FontWeight.Bold)
+        Text("商品列表").fontSize(30).fontWeight(FontWeight.Bold)
       }
       .width("100%")
       .margin({ bottom: 20 })
@@ -34,7 +32,7 @@ struct Demo2 {
       Row({ space: 10 }) {
         Image($r("app.media.mate60"))
           .width(100)
-        Column({space:4}){
+        Column({ space: 4 }) {
           Text("华为mate60").fontSize(20).fontWeight(FontWeight.Bold)
           Text("￥ 6999").fontColor("#F36").fontSize(18)
         }
