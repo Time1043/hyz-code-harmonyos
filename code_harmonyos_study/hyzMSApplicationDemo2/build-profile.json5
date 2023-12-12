@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "C:\\Users\\16654\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.cer",
-          "storePassword": "0000001BE4B787D51EA9F67B3AA2FD65C5D0CE53A766DBD0D1546DD11EAB5698DFD47AFBAB68D74DAFD9CF",
+          "certpath": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.cer",
+          "storePassword": "0000001BBD9C29C66DBC723FEE2FF48EFCCF7F6D5C6856B5FB3C214D09D63FF2D8FB56929EA2B56B29F799",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001BF30705FBB55C85B3B96BEA0D62343EE67DB1941CDF06BB50B3F9BE18D070538809630EE5D993F9",
-          "profile": "C:\\Users\\16654\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.p7b",
+          "keyPassword": "0000001BA6724F11C6C3FED3A00D43A6C06975F9013D7BC15593F3D878D8DE5133D75D34CA6563013BB852",
+          "profile": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\16654\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.p12"
+          "storeFile": "C:\\Users\\huangyingzhu\\.ohos\\config\\auto_debug_hyzMSApplicationDemo2_com.time1043.myapplication_80086000308483083.p12"
         }
       }
     ],
