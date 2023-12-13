@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "00000019A99EDAC6B93B4053A27ABC272373BB9D78722D0D19331AE41E3DC6426466A064FCC66F6243",
+          "certpath": "D:/code/harmonyKey/note_online.cer",
+          "keyAlias": "notebook",
+          "keyPassword": "0000001941B5E9DA6B74A74A63B6385A2E76EEE68367B2C1180CED94E9A25FECB842DFBD531591D278",
+          "profile": "D:/code/harmonyKey/note_profile_onlineRelease.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "D:/code/harmonyKey/note.p12"
+        }
+      }
+    ],
     "compileSdkVersion": 9,
     "compatibleSdkVersion": 9,
     "products": [
