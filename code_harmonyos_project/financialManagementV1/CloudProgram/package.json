@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.19.9"
+  },
+  "dependencies": {
+    "@hw-agconnect/auth": "1.5.1"
+  }
+}
