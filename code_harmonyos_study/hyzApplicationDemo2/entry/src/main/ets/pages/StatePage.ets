@@ -1,3 +1,5 @@
+import { Header } from '../components/CommonComponents'
+
 class Person {
   name: string
   age: number
@@ -54,7 +56,7 @@ struct StatePage2 {
         })
 
       }.width('100%')
-    }.height('100%')
+    }.height('100%').padding(20)
   }
 }
 

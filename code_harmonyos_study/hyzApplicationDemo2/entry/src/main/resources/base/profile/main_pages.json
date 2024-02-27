@@ -4,6 +4,7 @@
     "pages/ImagePage",
     "pages/ItemPage",
     "pages/StatePage",
-    "pages/PropPage"
+    "pages/PropPage",
+    "pages/AnimationPage"
   ]
 }

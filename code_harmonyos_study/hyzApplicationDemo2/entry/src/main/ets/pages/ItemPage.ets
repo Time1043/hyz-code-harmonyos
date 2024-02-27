@@ -119,6 +119,5 @@ struct ItemPage {
     .backgroundColor("#FFF")
     .borderRadius(20)
     .height(120)
-    .padding(10)
   }
 }
